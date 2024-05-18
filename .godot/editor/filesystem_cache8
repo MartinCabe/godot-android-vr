@@ -1,0 +1,9 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1715997433
+export_presets.cfg::TextFile::-1::1715995901::0::1::::<><>::
+icon.svg::CompressedTexture2D::3140180350290439970::1715387266::1715387272::1::::<><>::
+main.gd::GDScript::-1::1715995680::0::1::::<>Node3D<>::
+main.tscn::PackedScene::1278916619267947327::1715996435::0::1::::<><>::res://main.gd<>uid://cmfwmb7chj5d1::::res://xr_origin.tscn
+openxr_action_map.tres::OpenXRActionMap::4225946564479908846::1715387417::0::1::::<><>::
+xr_origin.tscn::PackedScene::5626786685238315760::1715994087::0::1::::<><>::
+::res://android/::1715390278
